@@ -42,3 +42,9 @@
 - **規劃下一階段功能**：如多 agent 流程、記憶功能或網頁爬蟲。
 
 ---
+
+Git 指令集：
+1. Git pull ##同步最新內容
+2. Git branch NAME
+3. Git commit -i "註名更新了什麼東西" ＃#此時的更新還在你本地的電腦裡
+4. Git push ##更新到github上
