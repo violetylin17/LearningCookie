@@ -45,6 +45,7 @@
 
 Git 指令集：
 1. Git pull ##同步最新內容
-2. Git branch NAME
-3. Git commit -i "註名更新了什麼東西" ＃#此時的更新還在你本地的電腦裡
-4. Git push ##更新到github上
+2. 確認是在main branch上
+3. Git branch NAME ##建立新的branch
+4. Git commit -i "註名更新了什麼東西" ＃#此時的更新還在你本地的電腦裡
+5. Git push ##更新到github上
