@@ -13,6 +13,6 @@ import numpy
 ! mkdir hello
 ! ls
 
-pd.readcsv("hi.csv")
-
+a = pd.readcsv("hi.csv")
+show(a)
 
