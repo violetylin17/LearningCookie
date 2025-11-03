@@ -1,6 +1,6 @@
 # LearningCookie
 ### 🧭 第 1 週：明確目標與建立 GitHub 專案
-- **定義 AI agent 的用途**：翻譯AI。
+- **定義 AI agent 的用途**：翻譯AI(中文<->英文)。
 - **選擇技術堆疊**：Python + Flask 是快速原型的好選擇。
 - **建立 GitHub 專案**：
   - 設定主分支與開發分支。
